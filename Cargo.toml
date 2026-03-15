@@ -1,0 +1,10 @@
+[package]
+name = "alchemist"
+version = "0.1.0"
+edition = "2024"
+description = "Alchemist is an opinionated game engine built for every developer."
+repository = "https://github.com/wellbutteredtoast/alchemist"
+license = "Apache-2.0-only"
+publish = false
+
+[dependencies]
